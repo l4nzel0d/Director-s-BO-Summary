@@ -1,0 +1,6 @@
+python-dotenv
+requests
+fpdf2
+Pillow
+urllib3
+matplotlib
